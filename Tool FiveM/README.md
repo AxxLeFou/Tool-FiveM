@@ -1,34 +1,20 @@
 # FiveM Tools
 
-    ******************   ***   ***                   ***   ***************         ******         ******          
-	******************   ***    ***                 ***	   ***************         *** ***       *** ***  
-	***							 ***               ***     ***					   ***  ***     ***  ***    
-	***							  ***             ***	   ***					   ***   ***   ***   ***    
-	*************		 ***       ***           ***       ***					   ***    *** ***    ***   
-	*************        ***        ***         ***        ***************         ***     *****     ***  
-	***					 ***         ***       ***         ***************         ***      ***      *** 
-	***					 ***		  ***     ***          ***					   ***				 *** 	         
-	***					 ***		   ***   ***    	   ***					   ***				 *** 	      
-	***					 ***		    *** ***            ***					   ***				 *** 	      
-	***					 ***		     *****             ***************         ***				 *** 	      
-	***					 ***		      *** 			   ***************         ***				 *** 
-
 **For the people who are having problems.**  
 
 Discord : axel.gbn#0001
 
 **What's the purpose of this?**
 
-Program blocks the outbounding and inbounding calls from adhesive so they won't get to check your hwid from their auth server. Basically allows you to play FiveM on hwid banned computers.
+This program allows you to delete the FiveM cache in order to avoid various bugs in the game, to delete the DigitalEntitlements and CitizenFX files in order to disconnect from your account and erase all traces, to launch FiveM.
 
 **How to use:**
-1. Supprimer mon cache FiveM
-2. Supprimer DigitalEntitlements et CitizenFX
-3. Lancer FiveM
-4. Fermer le programme
 
-**Current status**
+1. Delete my FiveM cache
+2. Delete DigitalEntitlements and CitizenFX
+3. Launch FiveM
+4. Close the program
 
-Working
+**Latest update**
 
-
+03/06/2022
